@@ -1,2 +1,2 @@
 # kanban5-pwa
-Gestor de preojectes
+Gestor de projectes
