@@ -1,7 +1,7 @@
 {
-  "id": "kanban",
+  "id": "gestor-projectes-kanban",
   "name": "Gestor de projectes Kanban",
-  "short_name": "kanban",
+  "short_name": "Kanban",
   "description": "Aplicació PWA per gestionar projectes amb un tauler Kanban, etiquetes i tasques.",
   "start_url": "./DashBoardV8.html",
   "scope": "./",
@@ -22,4 +22,3 @@
     }
   ]
 }
-
